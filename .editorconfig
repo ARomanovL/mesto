@@ -1,0 +1,82 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+
+russian-travel
+generated from yandex-praktikum/russian-travel
+1
+00
+ Code
+ Issues 0
+ Pull requests 0 Actions
+ Projects 0
+ Wiki
+ Security 0
+ Insights
+ Settings
+russian-travel/.editorconfig
+ 
+45 lines (23 sloc)  795 Bytes
+  
+# http://editorconfig.org
+
+
+# A special property that should be specified at the top of the file outside of
+
+# any sections. Set to true to stop .editor config file search on current file
+
+root = true
+
+[*]
+# Indentation style
+
+# Possible values - tab, space
+
+indent_style = space
+
+# Indentation size in single-spaced characters
+
+# Possible values - an integer, tab
+
+indent_size = 2
+
+# Line ending file format
+
+# Possible values - lf, crlf, cr
+
+end_of_line = lf
+
+# File character encoding
+
+# Possible values - latin1, utf-8, utf-16be, utf-16le
+
+charset = utf-8
+
+# Denotes whether to trim whitespace at the end of lines
+
+# Possible values - true, false
+
+trim_trailing_whitespace = true
+
+# Denotes whether file should end with a newline
+
+# Possible values - true, false
+
+insert_final_newline = true
+© 2024 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
